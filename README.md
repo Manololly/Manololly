@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Manoj👋</h1>
 <h3 align="center">"Python coder exploring the world of machine learning and data analysis."</h3>
 
-![giphy](https://github.com/Manololly/Readme.md/assets/63733111/9dcef22d-d6a4-446e-8445-194c718729bf)
+![coder](https://github.com/Manololly/Manololly/assets/63733111/d51ff301-f32a-4820-8364-7065dbad1239)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manololly&label=Profile%20views&color=0e75b6&style=flat" alt="manololly" /> </p>
 
